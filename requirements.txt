@@ -1,0 +1,9 @@
+python-dotenv
+streamlit 
+requests
+pandas
+numpy
+matplotlib
+seaborn
+folium
+openaq
