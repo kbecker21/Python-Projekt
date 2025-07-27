@@ -1,5 +1,4 @@
 __pycache__/
-data/
-plots/
 .env
 venv/
+first_test_notebook.ipynb
